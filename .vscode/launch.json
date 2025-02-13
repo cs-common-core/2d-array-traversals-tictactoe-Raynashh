@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Play",
+            "request": "launch",
+            "mainClass": "Play",
+            "projectName": "2d-array-traversals-tictactoe-Raynashh_43a5192c"
+        },
+        {
+            "type": "java",
             "name": "Game",
             "request": "launch",
             "mainClass": "Game",
